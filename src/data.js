@@ -1,4 +1,4 @@
-const quiz = [
+export const QUIZ = [
     {
         question: "Why the crusades started?",
         answers: [
